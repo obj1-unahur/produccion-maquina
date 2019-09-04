@@ -1,0 +1,1 @@
+# Registro de producción de una máquina
