@@ -23,7 +23,7 @@ A modo de ejemplo, se indica qué debe responder el registro de producción a va
 | `registroProduccion.valoresDeProduccionPares()` | `18,62` |
 | `registroProduccion.produccionEsAcotada(10,100)` | `true` |
 | `registroProduccion.produccionEsAcotada(20,100)` | `false` (porque 18 no está en el rango) |
-| `registroProduccion.produccionesSuperioresA(35)` | `53,49,62,39` |
+| `registroProduccion.produccionesSuperioresA(35)` | `43,49,62,39` |
 | `registroProduccion.produccionesSumando(5)` | `48,23,54,67,38,44` |
 | `registroProduccion.totalProducido()` | `244` |
 | `registroProduccion.ultimoValorDeProduccion()` | `39` |
